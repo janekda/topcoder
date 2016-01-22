@@ -3,7 +3,5 @@
   <groupId>com.topcoder</groupId>
   <artifactId>dzish</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <build>
-    <sourceDirectory>src</sourceDirectory>
-  </build>
+  <name>Topcoder samples and competitions</name>
 </project>
